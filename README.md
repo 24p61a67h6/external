@@ -1,1 +1,1 @@
-# project.txt
+echo "welcome to DevOps"
